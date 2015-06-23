@@ -1,0 +1,22 @@
+{
+  "name": "s.html.write",
+  "version": "1.0.0",
+  "description": "S.html.write - Write HTML",
+  "main": "s.html.write.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.html.write.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.html.write/issues"
+  },
+  "homepage": "https://github.com/macton/S.html.write#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
